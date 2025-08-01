@@ -1,0 +1,293 @@
+body{
+    background-color: #EBE2DB;
+    margin: 0px;
+    padding: 0px;
+}
+.eur{
+    margin: 0px;
+    font-family: "Italianno", cursive;
+    font-weight: 400;
+    font-style: normal;
+    display: inline-block;
+    background-color: #F18C5A;
+    font-size: 128px;
+    padding: 30px 50px 70px 55px;
+    border: 1px solid #F4D83A;
+}
+.fh{
+    position: relative;
+    font-family: "Judson", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 24px;
+    top: -125px;
+    left: 32px;
+}
+.lines{
+    position: relative;
+    line-height: 22px;
+    top: -188px;
+    left: 27px;
+}
+.num{
+    position: relative;
+    display: inline-block;
+    background-color: #A86C4E;
+    font-family: "Judson", serif;
+    font-weight: 400;
+    font-style: normal;
+    padding: 40px 50px 40px 725px;
+    top: -475px;
+    left: 355px;
+    font-size: 75px;
+    border: 1px solid #F4D83A;
+}
+.opt{
+    background-color: #E9BF9E;
+    position: relative;
+    display: inline-block;
+    padding: 18px 50px 18px 50px;
+    top: -553px;
+    left: 355px;
+    border: 1px solid #F4D83A;
+}
+.opt > p{
+    position: relative;
+    display: inline-block;
+    margin-right: 45px;
+    font-family: "Judson", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 24px;
+}
+.bg1{
+    position: relative;
+    bottom: 553px;
+}
+.intro{
+    position: relative;
+    bottom: 1350px;
+    right: -300px;
+}
+.wel{
+    font-family: "Jacques Francois", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 64px;
+    text-align: center;
+    width: 1000px;
+}
+.des{
+    font-family: "Judson", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 35px;
+    text-align: center;
+    width: 953px;
+}
+.rs{
+    position: relative;
+    font-family: "Jacques Francois", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #7D2A00;
+    font-size: 64px;
+    bottom: 1200px;
+    right: -550px;
+}
+.sfos > p{
+    position: relative;
+    bottom: 1250px;
+    right: -150px;
+    display: inline-block;
+    font-family: "Judson", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40px;
+    border: 1px solid #60551A;
+}
+.sfo{
+    background-color: #FFFFFF;
+    padding: 30px 750px 30px 30px;
+    color: #7F7F7F;
+    border-radius: 10px;
+}
+.sea{
+    background-color: #E9BF9E;
+    color: #7D2A00;
+    position: relative;
+    margin-left: -15px;
+    padding: 30px 30px 30px 30px;
+    border-radius: 0px 10px 10px 0px;
+}
+.peo1 > img{
+    right: -150px;
+    bottom: 1200px;
+    position: relative;
+    margin-right: 70px;
+    background-color: #FFFFFF;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px 1px rgb(100, 100, 100);
+}
+.peo2 > img{
+    right: -150px;
+    bottom: 1057px;
+    position: relative;
+    margin-right: 70px;
+    background-color: #FFFFFF;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px 1px rgb(100, 100, 100);
+}
+.peon1 > p{
+    font-family: "Jacques Francois", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    display: inline-block;
+    position: relative;
+    margin-right: 175px;
+    right: -162px;
+    bottom: 1470px;
+}
+.peon2 > p{
+    font-family: "Jacques Francois", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    display: inline-block;
+    position: relative;
+    margin-right: 230px;
+    right: -850px;
+    bottom: 1535px;
+}
+.peon3 > p{
+    font-family: "Jacques Francois", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    display: inline-block;
+    position: relative;
+    margin-right: 220px;
+    right: -160px;
+    bottom: 1180px;
+}
+.peon4 > p{
+    font-family: "Jacques Francois", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    display: inline-block;
+    position: relative;
+    margin-right: 225px;
+    right: -848px;
+    bottom: 1246px;
+}
+.dat1 > p{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 12px;
+    display: inline-block;
+    position: relative;
+    margin-right: 261px;
+    right: -162px;
+    bottom: 1680px;
+}
+.dat2 > p{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 12px;
+    display: inline-block;
+    position: relative;
+    margin-right: 265px;
+    right: -852px;
+    bottom: 1719px;
+}
+.dat3 > p{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 12px;
+    display: inline-block;
+    position: relative;
+    margin-right: 245px;
+    right: -162px;
+    bottom: 1337px;
+}
+.dat4 > p{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 12px;
+    display: inline-block;
+    position: relative;
+    margin-right: 235px;
+    right: -852px;
+    bottom: 1376px;
+}
+.prev > p{
+    color: #7D2A00;
+    position: relative;
+    display: inline-block;
+    top: -20px;
+    font-family: "Judson", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40px;
+    right: -20px;
+}
+.next > p{
+    color: #7D2A00;
+    position: relative;
+    display: inline-block;
+    top: -20px;
+    font-family: "Judson", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40px;
+    margin-right: 20px;
+}
+.prev{
+    position: relative;
+    top: -1300px;
+    left: 100px;
+}
+.next{
+    position: relative;
+    top: -1427px;
+    left: 1350px;
+}
+.sub{
+    position: relative;
+    display: inline;
+    background-color: #E9BF9E;
+    font-family: "Jacques Francois", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 32px;
+    border: 1px solid #60551A;
+    padding: 20px;
+    border-radius: 20px;
+    position: relative;
+    top: -1525px;
+    left: 510px;
+}
+.adm{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 20px;
+    display: inline-block;
+    position: relative;
+    background-color: #A86C4E;
+    padding: 30px 390px 30px 390px;
+    top: -1400px;
+}
